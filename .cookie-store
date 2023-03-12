@@ -1,0 +1,13 @@
+---
+- !ruby/object:HTTP::Cookie
+  name: REVEL_SESSION
+  value: 1420fb39e764cff2f883aa963988091f8ee561b6-%00w%3Afalse%00%00UserScreenName%3Aymoriya%00%00Rating%3A254%00%00csrf_token%3AH%2Fy5a4WFJk53hHDF1WnfjXihMLxtqVcWcwT8CakZoTw%3D%00%00_TS%3A1623160857%00%00SessionKey%3A43dc705a77478977e2a7f8b6d1bd123a9e572b9b32eec980f9396b02f91b1eda39065c6288cac9-4614ea4b27230d35ed778e4bb08246880ffc20137148699d68983ed7472aa547%00%00UserName%3Aymoriya%00%00a%3Afalse%00
+  domain: atcoder.jp
+  for_domain: false
+  path: "/"
+  secure: false
+  httponly: true
+  expires: 
+  max_age: 15552000
+  created_at: &1 2020-12-10 23:00:56.678245300 +09:00
+  accessed_at: *1

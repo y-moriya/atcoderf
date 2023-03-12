@@ -1,0 +1,1 @@
+puts gets.chomp.chars.unshift(0).slice(0, 4).join()

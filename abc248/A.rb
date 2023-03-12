@@ -1,0 +1,1 @@
+puts (0..9).to_a - gets.chomp.chars.map(&:to_i)
